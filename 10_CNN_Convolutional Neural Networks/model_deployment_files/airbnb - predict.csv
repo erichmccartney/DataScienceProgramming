@@ -1,0 +1,99 @@
+host_is_superhost,host_identity_verified,neighbourhood_cleansed,latitude,longitude,property_type,room_type,accommodates,bathrooms,bedrooms,beds,bed_type,Number of amenities,guests_included,price_per_extra_person,minimum_nights,number_of_reviews,number_days_btw_first_last_review,review_scores_rating,cancellation_policy
+0,0,Allston,42.35053057,-71.12820937,Apartment,Entire home/apt,2,1,1,1,Real Bed,11,1,0,2,2,5,90,moderate
+0,1,Allston,42.36358002,-71.13150505,Apartment,Entire home/apt,4,2,2,2,Real Bed,20,1,0,3,0,0,,strict
+0,1,Allston,42.35768318,-71.12936901,Apartment,Entire home/apt,6,2,4,6,Real Bed,19,6,100,4,7,411,83,strict
+0,1,Allston,42.35223743,-71.12492056,Apartment,Private room,2,1,1,1,Real Bed,12,1,20,1,0,0,,strict
+0,0,Allston,42.35293529,-71.12771394,Apartment,Shared room,2,1,1,1,Real Bed,0,1,0,1,1,0,20,flexible
+0,1,Allston,42.36114983,-71.12551284,Apartment,Private room,2,1,1,1,Real Bed,15,1,20,2,46,479,95,strict
+0,0,Allston,42.35216084,-71.12938189,Apartment,Private room,2,1,1,1,Real Bed,15,1,5,1,3,8,93,moderate
+0,1,Allston,42.34998547,-71.14202092,House,Private room,2,2,1,1,Real Bed,18,1,25,1,47,624,92,strict
+0,1,Allston,42.34919132,-71.12944566,Apartment,Entire home/apt,3,1,2,2,Real Bed,18,1,0,3,0,0,,strict
+0,1,Allston,42.34784649,-71.1355986,Apartment,Entire home/apt,3,1,0,2,Real Bed,13,1,25,1,4,97,80,moderate
+0,1,Allston,42.36126465,-71.12532001,Apartment,Private room,2,1,1,1,Real Bed,13,1,20,2,46,499,96,strict
+1,1,Allston,42.36317744,-71.13364064,Apartment,Private room,2,1,1,1,Real Bed,20,2,25,1,52,353,95,flexible
+1,1,Allston,42.3552798,-71.13449907,House,Private room,2,2,1,1,Real Bed,16,1,20,1,109,1051,91,strict
+0,1,Allston,42.35417082,-71.12753884,Apartment,Entire home/apt,5,1,2,2,Real Bed,16,1,0,2,3,123,80,moderate
+0,1,Allston,42.35136743,-71.13299116,House,Private room,2,2,1,1,Real Bed,22,1,100,1,2,9,80,strict
+0,1,Allston,42.36565214,-71.1198919,Apartment,Entire home/apt,2,1,1,1,Real Bed,15,1,20,2,1,0,100,moderate
+1,1,Allston,42.35524225,-71.13547457,House,Private room,2,2,1,1,Real Bed,18,1,20,1,80,1017,90,strict
+0,0,Allston,42.34871296,-71.13803295,Apartment,Private room,2,1,1,1,Real Bed,10,1,10,3,2,19,100,flexible
+0,0,Allston,42.35991553,-71.12483112,House,Private room,2,1,1,1,Real Bed,14,1,0,7,2,14,100,flexible
+0,1,Allston,42.3533892,-71.12655602,Apartment,Private room,2,1,1,1,Real Bed,12,1,0,3,0,0,,flexible
+0,1,Allston,42.36274373,-71.12907139,Apartment,Entire home/apt,3,1,0,1,Real Bed,13,2,30,1,0,0,,moderate
+0,1,Allston,42.35488681,-71.13865334,House,Private room,1,1.5,1,1,Real Bed,13,1,0,1,3,44,67,strict
+0,1,Allston,42.35179203,-71.12690082,Apartment,Private room,2,1,1,1,Real Bed,15,2,0,1,64,333,88,strict
+0,1,Allston,42.34851107,-71.13282396,Apartment,Entire home/apt,2,1,1,0,Real Bed,22,0,10,3,10,183,90,strict
+0,1,Allston,42.36431499,-71.12985758,Apartment,Entire home/apt,4,2,2,2,Real Bed,20,1,0,3,0,0,,strict
+0,0,Allston,42.34774609,-71.13870237,Apartment,Entire home/apt,3,1,2,2,Real Bed,10,1,0,1,1,0,100,flexible
+0,0,Allston,42.34936146,-71.13515065,Apartment,Private room,1,1,1,1,Real Bed,6,1,0,2,20,901,96,strict
+0,1,Allston,42.35995247,-71.12801213,House,Private room,2,1,1,1,Real Bed,14,1,70,7,1,0,100,strict
+0,1,Allston,42.36287772,-71.12940938,Apartment,Entire home/apt,6,2,2,3,Real Bed,22,2,10,3,21,317,95,strict
+0,1,Allston,42.36192885,-71.13064064,Townhouse,Private room,2,1,1,1,Real Bed,22,1,0,3,3,394,73,flexible
+0,1,Allston,42.3593019,-71.1340864,Condominium,Private room,3,1,1,1,Real Bed,18,1,0,1,32,254,97,flexible
+0,1,Allston,42.36212689,-71.11760371,Apartment,Private room,2,1,1,1,Real Bed,11,1,0,1,9,274,100,moderate
+0,0,Allston,42.34811539,-71.13922865,Apartment,Private room,2,1,1,1,Real Bed,6,1,0,1,1,0,100,flexible
+0,1,Allston,42.35321761,-71.13227193,Apartment,Private room,2,1,1,1,Real Bed,11,1,25,2,10,800,84,strict
+0,0,Allston,42.35005816,-71.13925009,Apartment,Entire home/apt,4,1,2,2,Real Bed,10,1,0,1,0,0,,strict
+0,1,Allston,42.35417693,-71.1326162,Apartment,Private room,2,1,1,1,Real Bed,16,1,10,1,6,40,97,strict
+0,1,Allston,42.3531623,-71.12650086,Apartment,Private room,3,1,1,2,Real Bed,19,1,30,1,0,0,,moderate
+0,1,Allston,42.35092204,-71.12768196,Apartment,Private room,2,2,1,1,Real Bed,13,1,5,2,2,8,100,flexible
+0,1,Allston,42.3545958,-71.1281164,Apartment,Private room,1,1,1,1,Real Bed,8,1,0,7,9,713,87,moderate
+0,1,Allston,42.35143024,-71.12604073,Apartment,Private room,2,1,1,1,Real Bed,12,2,20,1,34,327,91,strict
+0,1,Allston,42.35645119,-71.13661022,Apartment,Private room,1,1.5,1,1,Real Bed,15,1,0,1,0,0,,strict
+0,1,Allston,42.34735545,-71.13738686,Apartment,Entire home/apt,5,1,2,2,Real Bed,20,4,25,1,6,432,92,flexible
+0,1,Allston,42.34966996,-71.13048927,Apartment,Entire home/apt,6,2,3,3,Real Bed,18,1,0,3,0,0,,strict
+0,1,Allston,42.35879097,-71.12856524,Apartment,Private room,2,1,1,1,Real Bed,10,1,0,2,2,7,100,flexible
+0,1,Allston,42.34805571,-71.13905559,Apartment,Private room,2,0.5,1,1,Real Bed,16,1,5,5,2,27,60,flexible
+0,0,Allston,42.35534198,-71.13826509,House,Shared room,1,1.5,1,1,Real Bed,14,1,0,1,0,0,,strict
+0,1,Allston,42.35819787,-71.12901562,House,Private room,2,2,1,1,Real Bed,16,0,0,1,32,405,97,flexible
+0,1,Allston,42.35287968,-71.12511943,Apartment,Private room,1,1,1,1,Futon,13,1,10,7,5,138,96,strict
+0,1,Allston,42.35201383,-71.14047181,House,Private room,4,1,1,2,Real Bed,18,2,35,2,1,0,100,flexible
+0,1,Allston,42.34720567,-71.13433882,Apartment,Entire home/apt,2,1,1,1,Real Bed,14,1,0,1,2,31,100,flexible
+0,0,Allston,42.34706793,-71.13520914,Apartment,Private room,2,1,1,1,Real Bed,16,1,0,2,0,0,,flexible
+1,1,Mission Hill,42.33455836,-71.11459173,Apartment,Private room,1,2.5,1,1,Real Bed,15,1,0,5,0,0,,moderate
+0,0,Allston,42.369137,-71.11435455,House,Private room,1,1,1,1,Real Bed,15,1,40,1,0,0,,strict
+0,1,Longwood Medical Area,42.3418045,-71.1108258,Apartment,Entire home/apt,3,1,1,2,Real Bed,21,1,0,20,1,0,,moderate
+0,1,Longwood Medical Area,42.34100553,-71.11237534,Apartment,Entire home/apt,5,2,2,2,Real Bed,18,1,0,20,0,0,,moderate
+0,1,Allston,42.35934172,-71.11404689,Apartment,Entire home/apt,8,2,3,5,Real Bed,18,4,20,1,38,344,89,strict
+0,0,Allston,42.35557506,-71.11156919,House,Private room,4,1,1,3,Real Bed,13,2,15,2,0,0,,strict
+0,0,Charlestown,42.3862181,-71.08157049,Apartment,Private room,1,2,1,1,Real Bed,16,1,0,1,0,0,,flexible
+0,0,Allston,42.36916542,-71.11555022,Apartment,Entire home/apt,4,1,2,2,Real Bed,10,1,0,7,0,0,,strict
+0,0,Charlestown,42.38764352,-71.07964873,Condominium,Private room,1,1,1,1,Real Bed,17,1,0,1,2,3,100,flexible
+0,0,Allston,42.36535112,-71.11436299,House,Entire home/apt,4,1,2,2,Real Bed,16,2,15,3,0,0,,strict
+0,1,Charlestown,42.38077345,-71.08518545,Apartment,Private room,3,1,1,2,Real Bed,17,2,24,1,0,0,,strict
+0,0,Charlestown,42.38680887,-71.08269544,Entire Floor,Private room,2,1,1,1,Real Bed,7,1,0,1,1,0,100,moderate
+0,1,Charlestown,42.38496528,-71.08352724,Apartment,Private room,2,1,1,1,Real Bed,16,1,15,3,0,0,,flexible
+0,0,Allston,42.35945285,-71.11368818,Apartment,Private room,2,1,1,1,Real Bed,18,1,0,5,0,0,,flexible
+0,1,West End,42.36926547,-71.07202422,Apartment,Entire home/apt,3,1,1,1,Real Bed,20,1,0,1,1,0,60,moderate
+0,1,Charlestown,42.38756052,-71.08223597,Apartment,Shared room,2,1,1,1,Real Bed,4,1,15,1,0,0,,flexible
+0,1,Charlestown,42.38266204,-71.08562213,Apartment,Private room,2,1,1,1,Real Bed,14,1,24,2,0,0,,strict
+0,0,Brighton,42.34178816,-71.13868836,House,Private room,4,1,1,2,Real Bed,8,1,0,3,2,5,100,flexible
+0,0,Mission Hill,42.3346569,-71.11345644,Apartment,Private room,1,1,1,1,Real Bed,13,1,20,1,4,10,100,moderate
+0,1,Charlestown,42.38054561,-71.08428255,Apartment,Private room,2,1,1,1,Real Bed,14,1,25,1,0,0,,strict
+0,0,Longwood Medical Area,42.34265399,-71.11186809,Apartment,Private room,2,1,1,,Real Bed,14,1,0,1,0,0,,flexible
+0,1,Allston,42.36347248,-71.11570069,Apartment,Entire home/apt,4,1,2,1,Real Bed,19,4,50,5,0,0,,strict
+0,1,Charlestown,42.38114177,-71.08188007,Apartment,Entire home/apt,7,1,3,3,Real Bed,11,6,25,2,0,0,,strict
+0,0,Longwood Medical Area,42.33660222,-71.11522093,Loft,Private room,2,1,1,2,Real Bed,13,1,10,1,0,0,,strict
+0,0,Allston,42.35130457,-71.12314049,Apartment,Shared room,2,1,1,1,Real Bed,8,1,0,1,0,0,,flexible
+0,0,Charlestown,42.38551619,-71.08025597,Apartment,Entire home/apt,6,2,2,3,Real Bed,16,1,0,2,0,0,,moderate
+0,1,Charlestown,42.3823685,-71.08617033,Apartment,Private room,2,1,1,1,Real Bed,16,1,24,1,0,0,,strict
+0,0,Allston,42.37572967,-71.13338821,Apartment,Entire home/apt,4,1,1,2,Real Bed,10,1,0,4,1,0,100,flexible
+0,1,Brighton,42.33637595,-71.14083351,Apartment,Private room,2,1.5,1,1,Real Bed,10,1,0,1,0,0,,flexible
+0,1,Allston,42.37372432,-71.12188783,Apartment,Entire home/apt,10,3,5,5,Real Bed,19,1,0,3,0,0,,strict
+0,1,Charlestown,42.38312446,-71.08010415,Apartment,Private room,2,1,1,1,Real Bed,15,1,24,1,1,0,80,strict
+0,0,Charlestown,42.384376,-71.08052184,Apartment,Entire home/apt,4,1,1,2,Real Bed,13,1,50,1,0,0,,flexible
+0,1,Charlestown,42.37468901,-71.07443976,House,Private room,2,1,1,1,Real Bed,10,1,15,1,8,457,90,strict
+0,0,Allston,42.34910682,-71.12858566,Apartment,Private room,2,1,1,1,Real Bed,16,1,0,1,2,3,100,flexible
+0,1,Allston,42.37375576,-71.12211638,Apartment,Entire home/apt,9,2,5,5,Real Bed,17,1,0,3,0,0,,strict
+0,1,Charlestown,42.38774101,-71.07989661,Apartment,Private room,2,1,1,1,Real Bed,4,1,30,1,2,12,80,flexible
+0,0,West Roxbury,42.30330536,-71.16193984,Townhouse,Private room,1,1,1,1,Real Bed,14,1,35,1,1,0,80,moderate
+0,1,Charlestown,42.38268125,-71.08571964,Apartment,Private room,2,1,1,1,Real Bed,19,1,24,2,6,532,70,strict
+0,1,Allston,42.36511232,-71.11480076,House,Private room,2,1,1,1,Real Bed,14,1,0,2,0,0,,flexible
+0,0,Allston,42.34718706,-71.13185997,Apartment,Private room,2,1,1,1,Real Bed,9,1,0,1,0,0,,flexible
+0,0,Allston,42.37074135,-71.1149144,House,Private room,1,1,1,1,Real Bed,15,1,0,1,2,0,100,strict
+0,1,Allston,42.34937989,-71.12286847,Condominium,Private room,2,1,1,1,Real Bed,20,1,0,2,0,0,,flexible
+0,1,Charlestown,42.3809677,-71.08379489,Apartment,Private room,3,1,1,1,Real Bed,17,1,24,2,4,344,90,strict
+0,1,Allston,42.34750341,-71.11833554,Apartment,Private room,2,1,1,1,Real Bed,23,1,0,3,0,0,,strict
+0,0,Charlestown,42.37177133,-71.07129981,Apartment,Entire home/apt,4,1,1,1,Real Bed,1,1,0,3,0,0,,flexible
+0,1,Charlestown,42.38522635,-71.08092263,Apartment,Private room,2,1,1,1,Real Bed,7,1,30,1,2,8,90,strict
+0,1,Charlestown,42.38788781,-71.08065372,Apartment,Private room,2,1,1,1,Real Bed,4,1,30,1,0,0,,flexible
